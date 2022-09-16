@@ -1,0 +1,14 @@
+*{
+  background-color: black;
+}
+
+.menu{
+  background-color: chartreuse;
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.botonsinojal {
+flex-direction: row;
+}
